@@ -1,4 +1,4 @@
-Country Code;FSA;PlaceName;Province;Latitude;Longitude
+CountryCode;FSA;PlaceName;Province;Latitude;Longitude
 CA;T0A;Eastern Alberta (St. Paul);Alberta;54.766;-111.7174
 CA;T0B;Wainwright Region (Tofield);Alberta;53.0727;-111.5816
 CA;T0C;Central Alberta (Stettler);Alberta;52.1431;-111.6941
@@ -456,7 +456,7 @@ CA;E4J;Salisbury;New Brunswick;46.0391;-65.0463
 CA;E4K;Dorchester;New Brunswick;45.9016;-64.508
 CA;E4L;Sackville;New Brunswick;45.9188;-64.3845
 CA;E4M;Bayfield;New Brunswick;46.0919;-64.0173
-CA;E4N;Cap-Pel?ê;New Brunswick;46.2129;-64.2784
+CA;E4N;Cap-Pel?Ãª;New Brunswick;46.2129;-64.2784
 CA;E4P;Shediac;New Brunswick;46.2198;-64.5411
 CA;E4R;Cocagne;New Brunswick;46.3324;-64.6187
 CA;E4S;Bouctouche;New Brunswick;46.4684;-64.739
@@ -516,7 +516,7 @@ CA;E8N;Grande-Anse;New Brunswick;47.8078;-65.1945
 CA;E8P;Inkerman;New Brunswick;47.6672;-64.8248
 CA;E8R;Paquetville;New Brunswick;47.6383;-65.1709
 CA;E8S;Shippagan;New Brunswick;47.7287;-64.7247
-CA;E8T;Lam?Êque;New Brunswick;47.7936;-64.6475
+CA;E8T;Lam?ÃŠque;New Brunswick;47.7936;-64.6475
 CA;E9A;Baie-Sainte-Anne;New Brunswick;47.0188;-64.92
 CA;E9B;Blackville;New Brunswick;46.7398;-65.8319
 CA;E9C;Doaktown;New Brunswick;46.557;-66.1257
@@ -563,7 +563,7 @@ CA;B0E;West Cape Breton Island (Baddeck);Nova Scotia;46.1133;-61.0251
 CA;B0H;Canso region (Havre Boucher);Nova Scotia;45.3335;-61.8333
 CA;B0J;Mainland east shore (Lunenburg);Nova Scotia;44.9419;-62.6471
 CA;B0K;Southern Northumberland Strait (Pictou);Nova Scotia;45.6138;-62.9506
-CA;B0L;Isthmus of Chignecto (River H?êbert);Nova Scotia;45.6908;-64.3641
+CA;B0L;Isthmus of Chignecto (River H?Ãªbert);Nova Scotia;45.6908;-64.3641
 CA;B0M;Cobequid Bay north shore (Springhill);Nova Scotia;45.5354;-64.0393
 CA;B0N;Hants County (Shubenacadie);Nova Scotia;45.0963;-63.4701
 CA;B0P;Kings County (Kingston);Nova Scotia;45.0328;-64.6566
@@ -704,7 +704,7 @@ CA;M5W;Downtown Toronto Stn A PO Boxes 25 The Esplanade (Enclave of M5E);Ontario
 CA;M5X;Downtown Toronto (Underground city);Ontario;43.6492;-79.3823
 CA;M6G;Downtown Toronto (Christie);Ontario;43.6683;-79.4205
 CA;M6H;West Toronto (Dufferin / Dovercourt Village);Ontario;43.6655;-79.4378
-CA;M6J;West Toronto (Rua A?¿ores / Trinity);Ontario;43.648;-79.4177
+CA;M6J;West Toronto (Rua A?Â¿ores / Trinity);Ontario;43.648;-79.4177
 CA;M6K;West Toronto (Brockton / Parkdale Village / Exhibition Place);Ontario;43.6383;-79.4301
 CA;M6P;West Toronto (High Park / The Junction South);Ontario;43.6605;-79.4633
 CA;M6R;West Toronto (Parkdale / Roncesvalles Village);Ontario;43.6469;-79.4521
@@ -1186,17 +1186,17 @@ CA;G5J;Amqui;Quebec;48.4638;-67.4313
 CA;G5L;Rimouski Central;Quebec;48.416;-68.5979
 CA;G5M;Rimouski Northeast;Quebec;48.4966;-68.458
 CA;G5N;Rimouski Southwest;Quebec;48.3668;-68.4659
-CA;G5R;Rivi?Êre-du-Loup;Quebec;47.8304;-69.5342
+CA;G5R;Rivi?ÃŠre-du-Loup;Quebec;47.8304;-69.5342
 CA;G7P;Saint-Ambroise;Quebec;48.5501;-71.3158
 CA;G8B;Alma Southeast;Quebec;48.5548;-71.673
 CA;G8C;Alma Southwest;Quebec;48.5278;-71.6364
 CA;G8E;Alma North;Quebec;48.6377;-71.6957
 CA;G8H;Roberval;Quebec;48.5168;-72.2324
 CA;G8J;Saint-Prime;Quebec;48.5834;-72.3324
-CA;G8K;Saint-F?êlicien;Quebec;48.6501;-72.4491
+CA;G8K;Saint-F?Ãªlicien;Quebec;48.6501;-72.4491
 CA;G8L;Dolbeau-Mistassini;Quebec;48.8763;-72.212
 CA;G8M;Albanel;Quebec;48.8832;-72.4487
-CA;G8N;H?êbertville;Quebec;48.3473;-71.6786
+CA;G8N;H?Ãªbertville;Quebec;48.3473;-71.6786
 CA;G0A;Capitale-Nationale (Stoneham);Quebec;47.3507;-71.202
 CA;G1A;Quebec Provincial Government;Quebec;46.8588;-71.192
 CA;G1J;Quebec City Lower Riverbank;Quebec;46.838;-71.2232
@@ -1250,16 +1250,16 @@ CA;J0X;Outaouais-Sud (Thurso);Quebec;46.307;-76.7653
 CA;J8N;Val-des-Monts;Quebec;45.6501;-75.666
 CA;J9B;Chelsea;Quebec;45.5001;-75.7827
 CA;J9E;Maniwaki;Quebec;46.3834;-75.966
-CA;J0Z;Abitibi-T?êmiscamingue-Ouest (Guigues);Quebec;47.8626;-78.824
+CA;J0Z;Abitibi-T?Ãªmiscamingue-Ouest (Guigues);Quebec;47.8626;-78.824
 CA;J9P;Val-d'Or;Quebec;48.1002;-77.7828
 CA;J9T;Amos;Quebec;48.5669;-78.1162
 CA;J9V;Ville-Marie;Quebec;47.3334;-79.433
 CA;J9Z;La Sarre;Quebec;48.8002;-79.1996
 CA;G0G;C??te-Nord/Anticosti (Schefferville);Quebec;53.0413;-68.6884
-CA;G4S;Sept-?Äles Northwest;Quebec;50.2713;-66.3751
+CA;G4S;Sept-?Ã„les Northwest;Quebec;50.2713;-66.3751
 CA;G5B;Port-Cartier;Quebec;50.0334;-66.8655
 CA;G8P;Chibougamau;Quebec;49.9168;-74.3659
-CA;G4X;Gasp?ê;Quebec;48.8334;-64.4819
+CA;G4X;Gasp?Ãª;Quebec;48.8334;-64.4819
 CA;G5V;Montmagny;Quebec;46.9804;-70.5549
 CA;G5X;Beauceville;Quebec;46.2179;-70.7787
 CA;G5Y;Saint-Georges Central;Quebec;46.1326;-70.6375
@@ -1267,15 +1267,15 @@ CA;G5Z;Saint-Georges Southeast;Quebec;46.0642;-70.7118
 CA;G6A;Saint-Georges Northwest;Quebec;46.1437;-70.6817
 CA;G6E;Sainte-Marie;Quebec;46.434;-71.0117
 CA;G6G;Thetford Mines;Quebec;46.0937;-71.3054
-CA;G6V;L?êvis North;Quebec;46.8033;-71.1779
-CA;G6W;L?êvis South;Quebec;46.7546;-71.22
-CA;G6Y;L?êvis;Quebec;46.8033;-71.1779
+CA;G6V;L?Ãªvis North;Quebec;46.8033;-71.1779
+CA;G6W;L?Ãªvis South;Quebec;46.7546;-71.22
+CA;G6Y;L?Ãªvis;Quebec;46.8033;-71.1779
 CA;H7N;Laval-des-Rapides;Quebec;45.5501;-73.6992
 CA;H7R;Laval-sur-le-Lac;Quebec;45.5526;-73.8507
-CA;J0K;Lanaudi?Êre-Nord (Saint-Esprit);Quebec;46.7966;-73.8705
+CA;J0K;Lanaudi?ÃŠre-Nord (Saint-Esprit);Quebec;46.7966;-73.8705
 CA;J5M;Saint-Lin-Laurentides;Quebec;45.8501;-73.7659
 CA;J5T;Lavaltrie;Quebec;45.8834;-73.2825
-CA;J5X;L'?ëpiphanie;Quebec;45.8501;-73.4825
+CA;J5X;L'?Ã«piphanie;Quebec;45.8501;-73.4825
 CA;J5Y;Repentigny Northeast;Quebec;45.7774;-73.4252
 CA;J5Z;Repentigny West;Quebec;45.7643;-73.5036
 CA;J6A;Repentigny South;Quebec;45.7395;-73.4588
@@ -1287,20 +1287,20 @@ CA;J7K;Mascouche Extremities;Quebec;45.77;-73.6049
 CA;J7L;Mascouche Central;Quebec;45.7424;-73.6509
 CA;J0T;Laurentides-Nord (Montcalm);Quebec;46.3002;-74.5855
 CA;J5K;Saint-Colomban;Quebec;45.7334;-74.1325
-CA;J5L;Saint-J?êr??me West;Quebec;45.7987;-74.0727
-CA;J7E;Sainte-Th?êr?Êse-de-Blainville Central;Quebec;45.6442;-73.8448
+CA;J5L;Saint-J?Ãªr??me West;Quebec;45.7987;-74.0727
+CA;J7E;Sainte-Th?Ãªr?ÃŠse-de-Blainville Central;Quebec;45.6442;-73.8448
 CA;J7P;Saint-Eustache Northeast;Quebec;45.5779;-73.8809
 CA;J7R;Saint-Eustache Southwest;Quebec;45.574;-73.94
-CA;J7Y;Saint-J?êr??me North;Quebec;45.8058;-74.0165
-CA;J7Z;Saint-J?êr??me Southeast;Quebec;45.7788;-73.9829
+CA;J7Y;Saint-J?Ãªr??me North;Quebec;45.8058;-74.0165
+CA;J7Z;Saint-J?Ãªr??me Southeast;Quebec;45.7788;-73.9829
 CA;J8A;Saint-Hippolyte;Quebec;45.9334;-74.0159
-CA;J8B;Sainte-Ad?Êle;Quebec;45.9501;-74.1325
+CA;J8B;Sainte-Ad?ÃŠle;Quebec;45.9501;-74.1325
 CA;J8E;Mont-Tremblant;Quebec;46.1949;-74.6264
 CA;J8H;Lachute;Quebec;45.6501;-74.3325
 CA;J9L;Mont-Laurier;Quebec;46.5501;-75.4993
-CA;J0J;Mont?êr?êgie-Est (Bedford);Quebec;45.1529;-73.1636
-CA;J0L;Mont?êr?êgie-Nord (Saint-Antoine-Sur-Richelieu);Quebec;45.1956;-73.5695
-CA;J0S;Mont?êr?êgie-Ouest (Saint-Anicet);Quebec;45.1082;-74.0451
+CA;J0J;Mont?Ãªr?Ãªgie-Est (Bedford);Quebec;45.1529;-73.1636
+CA;J0L;Mont?Ãªr?Ãªgie-Nord (Saint-Antoine-Sur-Richelieu);Quebec;45.1956;-73.5695
+CA;J0S;Mont?Ãªr?Ãªgie-Ouest (Saint-Anicet);Quebec;45.1082;-74.0451
 CA;J2G;Granby Central;Quebec;45.4046;-72.7202
 CA;J2H;Granby East;Quebec;45.3938;-72.7005
 CA;J2J;Granby West;Quebec;45.4005;-72.7825
@@ -1332,38 +1332,38 @@ CA;J5A;Saint-Constant;Quebec;45.3668;-73.5659
 CA;J5B;Delson;Quebec;45.3668;-73.5492
 CA;J5C;Sainte-Catherine;Quebec;45.4001;-73.5825
 CA;J5R;La Prairie;Quebec;45.4168;-73.4992
-CA;J6J;Ch?óteauguay North;Quebec;45.3691;-73.7216
-CA;J6K;Ch?óteauguay South;Quebec;45.3526;-73.7305
+CA;J6J;Ch?Ã³teauguay North;Quebec;45.3691;-73.7216
+CA;J6K;Ch?Ã³teauguay South;Quebec;45.3526;-73.7305
 CA;J6N;Beauharnois;Quebec;45.3168;-73.8659
 CA;J6R;Mercier;Quebec;45.3168;-73.7492
 CA;J6S;Salaberry-de-Valleyfield North;Quebec;45.2702;-74.0482
 CA;J6T;Salaberry-de-Valleyfield South;Quebec;45.2409;-74.1098
 CA;J7V;Vaudreuil-Dorion;Quebec;45.4001;-74.0325
-CA;G0P;Centre-du-Qu?êbec-Est (Saint-Val?Êre);Quebec;46.0119;-71.7199
-CA;G0Z;Centre-du-Qu?êbec-Nord (Daveluyville);Quebec;46.179;-72.1569
+CA;G0P;Centre-du-Qu?Ãªbec-Est (Saint-Val?ÃŠre);Quebec;46.0119;-71.7199
+CA;G0Z;Centre-du-Qu?Ãªbec-Nord (Daveluyville);Quebec;46.179;-72.1569
 CA;G6L;Plessisville;Quebec;46.2186;-71.762
 CA;G6P;Victoriaville Central;Quebec;46.0529;-71.9477
 CA;G6T;Victoriaville Northwest;Quebec;46.0828;-71.9728
-CA;J0A;Centre-du-Qu?êbec-Sud (Warwick);Quebec;45.8382;-71.9542
-CA;J0C;Centre-du-Qu?êbec-Ouest (Saint-Bonaventure);Quebec;45.8567;-72.6966
+CA;J0A;Centre-du-Qu?Ãªbec-Sud (Warwick);Quebec;45.8382;-71.9542
+CA;J0C;Centre-du-Qu?Ãªbec-Ouest (Saint-Bonaventure);Quebec;45.8567;-72.6966
 CA;J2A;Drummondville Southeast;Quebec;45.8152;-72.4027
 CA;J2C;Drummondville Central;Quebec;45.8893;-72.5055
 CA;J2E;Drummondville Northwest;Quebec;45.9099;-72.5289
 CA;J3T;Nicolet;Quebec;46.2168;-72.6158
 CA;G0B;Cap-aux-Meules;Quebec;47.4501;-72.9913
-CA;G0C;Gasp?êsie-Sud (New Richmond);Quebec;48.3429;-65.5961
-CA;G0E;Gasp?êsie-Nord (Grande-Vall?êe);Quebec;48.9182;-65.3736
-CA;G0H;Manicouagan (Baie-Trinit?ê);Quebec;49.3795;-67.8948
-CA;G0J;Gasp?êsie-Ouest (Causapscal);Quebec;48.5246;-67.0565
+CA;G0C;Gasp?Ãªsie-Sud (New Richmond);Quebec;48.3429;-65.5961
+CA;G0E;Gasp?Ãªsie-Nord (Grande-Vall?Ãªe);Quebec;48.9182;-65.3736
+CA;G0H;Manicouagan (Baie-Trinit?Ãª);Quebec;49.3795;-67.8948
+CA;G0J;Gasp?Ãªsie-Ouest (Causapscal);Quebec;48.5246;-67.0565
 CA;G0K;Bas-St-Laurent-Est (Sainte-Luce);Quebec;48.159;-68.1951
 CA;G0L;Bas-St-Laurent-Ouest (Trois-Pistoles);Quebec;47.7136;-69.1658
-CA;G0M;R?êgion de Beauce (Saint-Prosper-De-Dorchester);Quebec;45.9718;-70.6565
-CA;G0N;Chaudi?Êre-Sud (Disraeli);Quebec;46.0988;-71.1248
-CA;G0R;Appalaches (La Pocati?Êre);Quebec;46.798;-70.3288
-CA;G0S;Chaudi?Êre-Nord (Saint-Joseph-De-Beauce);Quebec;46.4526;-71.4397
+CA;G0M;R?Ãªgion de Beauce (Saint-Prosper-De-Dorchester);Quebec;45.9718;-70.6565
+CA;G0N;Chaudi?ÃŠre-Sud (Disraeli);Quebec;46.0988;-71.1248
+CA;G0R;Appalaches (La Pocati?ÃŠre);Quebec;46.798;-70.3288
+CA;G0S;Chaudi?ÃŠre-Nord (Saint-Joseph-De-Beauce);Quebec;46.4526;-71.4397
 CA;G0T;Le Fjord (Forestville);Quebec;49.0143;-69.6231
 CA;G0V;Saguenay-Lac-St-Jean (Alouette);Quebec;50.1719;-70.6283
-CA;G0W;R?êgion de Mistassini (Chambord);Quebec;49.834;-72.2623
+CA;G0W;R?Ãªgion de Mistassini (Chambord);Quebec;49.834;-72.2623
 CA;G0Y;L'Erable (Nantes);Quebec;45.6242;-71.0191
 CA;G1B;Beauport North;Quebec;46.9263;-71.2258
 CA;G1C;Beauport Central;Quebec;46.8801;-71.196
@@ -1381,13 +1381,13 @@ CA;G2L;Charlesbourg North;Quebec;46.8895;-71.2545
 CA;G2M;Jean-Talon Northeast;Quebec;46.922;-71.3056
 CA;G2N;Jean-Talon West;Quebec;46.9137;-71.3398
 CA;G3A;St-Augustin-De-Desmaures;Quebec;46.7406;-71.4513
-CA;G3E;Saint-?ëmile;Quebec;46.8779;-71.3408
+CA;G3E;Saint-?Ã«mile;Quebec;46.8779;-71.3408
 CA;G3G;Lac-Saint-Charles;Quebec;46.9242;-71.3958
-CA;G3J;Val-B?êlair North;Quebec;46.8603;-71.4752
-CA;G3K;Val-B?êlair South;Quebec;46.8315;-71.4429
+CA;G3J;Val-B?Ãªlair North;Quebec;46.8603;-71.4752
+CA;G3K;Val-B?Ãªlair South;Quebec;46.8315;-71.4429
 CA;G3L;Saint-Raymond;Quebec;47.2374;-71.8763
-CA;G4R;Sept-?Äles Southeast;Quebec;50.8558;-67.0511
-CA;G4T;Les ?Äles-De-La-Madeleine;Quebec;47.3999;-61.7996
+CA;G4R;Sept-?Ã„les Southeast;Quebec;50.8558;-67.0511
+CA;G4T;Les ?Ã„les-De-La-Madeleine;Quebec;47.3999;-61.7996
 CA;G4V;Sainte-Anne-Des-Monts;Quebec;48.9711;-66.3082
 CA;G4Z;Baie-Comeau Northeast;Quebec;51.0872;-68.632
 CA;G5C;Baie-Comeau Southwest;Quebec;50.3474;-69.0411
@@ -1407,40 +1407,40 @@ CA;G7G;Chicoutimi North;Quebec;48.445;-71.1025
 CA;G7H;Chicoutimi East;Quebec;48.4187;-71.0417
 CA;G7J;Chicoutimi West;Quebec;48.4175;-71.1031
 CA;G7K;Chicoutimi Southwest;Quebec;48.3689;-71.1175
-CA;G7N;Laterri?Êre;Quebec;48.2007;-71.1426
-CA;G7S;Jonqui?Êre Northeast;Quebec;48.4294;-71.1774
-CA;G7T;Jonqui?Êre Southeast;Quebec;48.3975;-71.1527
-CA;G7X;Jonqui?Êre Central;Quebec;48.3199;-71.4149
-CA;G7Y;Jonqui?Êre Southwest;Quebec;48.3701;-71.2358
-CA;G7Z;Jonqui?Êre Northwest;Quebec;48.4381;-71.2642
-CA;G8A;Jonqui?Êre West;Quebec;48.4233;-71.3629
-CA;G8G;M?êtabetchouan-Lac-a-la-Croix;Quebec;47.8076;-71.5907
+CA;G7N;Laterri?ÃŠre;Quebec;48.2007;-71.1426
+CA;G7S;Jonqui?ÃŠre Northeast;Quebec;48.4294;-71.1774
+CA;G7T;Jonqui?ÃŠre Southeast;Quebec;48.3975;-71.1527
+CA;G7X;Jonqui?ÃŠre Central;Quebec;48.3199;-71.4149
+CA;G7Y;Jonqui?ÃŠre Southwest;Quebec;48.3701;-71.2358
+CA;G7Z;Jonqui?ÃŠre Northwest;Quebec;48.4381;-71.2642
+CA;G8A;Jonqui?ÃŠre West;Quebec;48.4233;-71.3629
+CA;G8G;M?Ãªtabetchouan-Lac-a-la-Croix;Quebec;47.8076;-71.5907
 CA;G8T;Cap-de-la-Madeleine Central and southeast;Quebec;46.3877;-72.5357
 CA;G8V;Cap-de-la-Madeleine Northeast;Quebec;46.4098;-72.4908
 CA;G8W;Cap-de-la-Madeleine West;Quebec;46.4176;-72.6372
-CA;G8Y;Trois-Rivi?Êres Central;Quebec;46.3668;-72.6168
-CA;G8Z;Trois-Rivi?Êres Northeast;Quebec;46.3458;-72.5716
-CA;G9A;Trois-Rivi?Êres East;Quebec;46.3695;-72.6789
-CA;G9B;Trois-Rivi?Êres South;Quebec;46.316;-72.6833
-CA;G9C;Trois-Rivi?Êres West;Quebec;46.3922;-72.6725
+CA;G8Y;Trois-Rivi?ÃŠres Central;Quebec;46.3668;-72.6168
+CA;G8Z;Trois-Rivi?ÃŠres Northeast;Quebec;46.3458;-72.5716
+CA;G9A;Trois-Rivi?ÃŠres East;Quebec;46.3695;-72.6789
+CA;G9B;Trois-Rivi?ÃŠres South;Quebec;46.316;-72.6833
+CA;G9C;Trois-Rivi?ÃŠres West;Quebec;46.3922;-72.6725
 CA;G9H;Becancour;Quebec;46.3334;-72.4324
 CA;G9N;Shawinigan Central;Quebec;46.5564;-72.7198
 CA;G9P;Shawinigan Southeast;Quebec;46.5068;-72.7436
 CA;G9R;Shawinigan Northwest;Quebec;46.6098;-72.8266
-CA;G9T;Grand-M?Êre;Quebec;46.6315;-72.737
+CA;G9T;Grand-M?ÃŠre;Quebec;46.6315;-72.737
 CA;H0H;Reserved (Santa Claus);Quebec;90;0
 CA;H0M;Akwesasne Region (Akwesasne);Quebec;45.6986;-73.5025
 CA;H1A;Pointe-Aux-Trembles;Quebec;45.6753;-73.5016
-CA;H1C;Rivi?Êre-des-Prairies Northeast;Quebec;45.6656;-73.5367
-CA;H1E;Rivi?Êre-Des-Prairies Southwest;Quebec;45.6342;-73.5842
+CA;H1C;Rivi?ÃŠre-des-Prairies Northeast;Quebec;45.6656;-73.5367
+CA;H1E;Rivi?ÃŠre-Des-Prairies Southwest;Quebec;45.6342;-73.5842
 CA;H1J;Anjou West;Quebec;45.6097;-73.5794
 CA;H1K;Anjou East;Quebec;45.6097;-73.5472
 CA;H1L;Mercier North;Quebec;45.6043;-73.5178
 CA;H1M;Mercier West;Quebec;45.5883;-73.5572
 CA;H1N;Mercier Southeast;Quebec;45.5779;-73.5304
-CA;H1P;Saint-L?êonard North;Quebec;45.5966;-73.5928
-CA;H1R;Saint-L?êonard West;Quebec;45.5864;-73.6082
-CA;H1S;Saint-L?êonard Southeast;Quebec;45.5808;-73.5825
+CA;H1P;Saint-L?Ãªonard North;Quebec;45.5966;-73.5928
+CA;H1R;Saint-L?Ãªonard West;Quebec;45.5864;-73.6082
+CA;H1S;Saint-L?Ãªonard Southeast;Quebec;45.5808;-73.5825
 CA;H1T;Rosemont North;Quebec;45.573;-73.5701
 CA;H1V;Maisonneuve;Quebec;45.5585;-73.5386
 CA;H1W;Hochelaga;Quebec;45.5442;-73.5468
@@ -1465,8 +1465,8 @@ CA;H2T;Plateau Mont-Royal West;Quebec;45.5247;-73.5953
 CA;H2V;Outremont;Quebec;45.5168;-73.6072
 CA;H2W;Plateau Mont-Royal South Central;Quebec;45.5176;-73.5804
 CA;H2X;Plateau Mont-Royal Southeast;Quebec;45.5115;-73.5683
-CA;H3C;Griffintown (Includes ?Äle Notre-Dame & ?Äle Sainte-H?êl?Êne);Quebec;45.498;-73.5472
-CA;H3E;L'?Äle-Des-Soeurs;Quebec;45.4594;-73.5501
+CA;H3C;Griffintown (Includes ?Ã„le Notre-Dame & ?Ã„le Sainte-H?Ãªl?ÃŠne);Quebec;45.498;-73.5472
+CA;H3E;L'?Ã„le-Des-Soeurs;Quebec;45.4594;-73.5501
 CA;H3J;Petite-Bourgogne;Quebec;45.4861;-73.5732
 CA;H3K;Pointe-Saint-Charles;Quebec;45.4805;-73.5554
 CA;H3L;Ahuntsic Southwest;Quebec;45.5467;-73.6718
@@ -1478,10 +1478,10 @@ CA;H3S;C??te-des-Neiges North;Quebec;45.5063;-73.6297
 CA;H3T;C??te-des-Neiges Northeast;Quebec;45.5018;-73.6191
 CA;H3V;C??te-des-Neiges East;Quebec;45.499;-73.6089
 CA;H3W;C??te-des-Neiges Southwest;Quebec;45.4897;-73.6312
-CA;H4A;Notre-Dame-de-Gr?öce Northeast;Quebec;45.4717;-73.6149
-CA;H4B;Notre-Dame-de-Gr?öce Southwest;Quebec;45.4604;-73.6303
+CA;H4A;Notre-Dame-de-Gr?Ã¶ce Northeast;Quebec;45.4717;-73.6149
+CA;H4B;Notre-Dame-de-Gr?Ã¶ce Southwest;Quebec;45.4604;-73.6303
 CA;H4C;Saint-Henri;Quebec;45.4737;-73.5882
-CA;H4E;Ville ?ëmard;Quebec;45.4546;-73.5985
+CA;H4E;Ville ?Ã«mard;Quebec;45.4546;-73.5985
 CA;H4G;Verdun North;Quebec;45.4643;-73.5698
 CA;H4H;Verdun South;Quebec;45.4459;-73.5815
 CA;H4J;Cartierville Central;Quebec;45.5313;-73.7091
@@ -1499,7 +1499,7 @@ CA;H4Z;Tour de la Bourse;Quebec;45.5061;-73.5573
 CA;H5A;Place Bonaventure;Quebec;45.4992;-73.5646
 CA;H5B;Place Desjardins;Quebec;45.5066;-73.5623
 CA;H7A;Duvernay-Est;Quebec;45.6739;-73.5924
-CA;H7B;Saint-Fran?¿ois;Quebec;45.6757;-73.6388
+CA;H7B;Saint-Fran?Â¿ois;Quebec;45.6757;-73.6388
 CA;H7C;Saint-Vincent-de-Paul;Quebec;45.6168;-73.6492
 CA;H7E;Duvernay;Quebec;45.6225;-73.6949
 CA;H7G;Pont-Viau;Quebec;45.5771;-73.6873
@@ -1513,8 +1513,8 @@ CA;H7S;Chomedey Northeast;Quebec;45.5793;-73.7367
 CA;H7T;Chomedey Northwest;Quebec;45.5573;-73.7725
 CA;H7V;Chomedey East;Quebec;45.5478;-73.7368
 CA;H7W;Chomedey South;Quebec;45.5338;-73.7652
-CA;H7X;Sainte-Doroth?êe;Quebec;45.5334;-73.8159
-CA;H7Y;?Äles-Laval;Quebec;45.5284;-73.8509
+CA;H7X;Sainte-Doroth?Ãªe;Quebec;45.5334;-73.8159
+CA;H7Y;?Ã„les-Laval;Quebec;45.5284;-73.8509
 CA;H8N;LaSalle Northwest;Quebec;45.438;-73.6215
 CA;H8P;LaSalle Southeast;Quebec;45.4011;-73.619
 CA;H8R;Saint-Pierre;Quebec;45.3994;-73.6506
@@ -1524,23 +1524,23 @@ CA;H8Y;Roxboro;Quebec;45.5084;-73.8075
 CA;H8Z;Pierrefonds;Quebec;45.5069;-73.8407
 CA;H9A;Dollard-Des-Ormeaux Northwest;Quebec;45.4948;-73.8317
 CA;H9B;Dollard-Des-Ormeaux East;Quebec;45.4897;-73.7958
-CA;H9C;L'?Äle Bizard Northeast;Quebec;45.5055;-73.8789
-CA;H9E;L'?Äle-Bizard Southwest;Quebec;45.4865;-73.9092
+CA;H9C;L'?Ã„le Bizard Northeast;Quebec;45.5055;-73.8789
+CA;H9E;L'?Ã„le-Bizard Southwest;Quebec;45.4865;-73.9092
 CA;H9G;Dollard-Des-Ormeaux Southwest;Quebec;45.4756;-73.8367
-CA;H9H;Sainte-Genevi?Êve;Quebec;45.4683;-73.8565
+CA;H9H;Sainte-Genevi?ÃŠve;Quebec;45.4683;-73.8565
 CA;H9K;Senneville;Quebec;45.4577;-73.9162
-CA;H9S;L'?Äle-Dorval;Quebec;45.4414;-73.7749
+CA;H9S;L'?Ã„le-Dorval;Quebec;45.4414;-73.7749
 CA;H9X;Sainte-Anne-De-Bellevue;Quebec;45.4062;-73.9456
 CA;J0E;Estrie-Ouest (Fulford);Quebec;45.2831;-72.5244
 CA;J0G;Bois-Francs-Nord (Odanak);Quebec;46.021;-72.8239
 CA;J0H;Bois-Francs-Sud (Saint-Nazaire-D'Acton);Quebec;45.6609;-72.77
 CA;J0M;Nunavik (Kuujjuaq);Quebec;58.3269;-72.1637
-CA;J0N;R?êgion d'Oka (Oka);Quebec;45.5135;-74.0534
+CA;J0N;R?Ãªgion d'Oka (Oka);Quebec;45.5135;-74.0534
 CA;J0P;Vaudreuil-Soulanges (Coteau-du-Lac);Quebec;45.3655;-74.312
-CA;J0R;Lanaudi?Êre-Sud (Pr?êvost);Quebec;45.866;-74.1785
-CA;J0V;Laurentides-Sud (Ch?ên?êville);Quebec;45.8265;-74.9318
+CA;J0R;Lanaudi?ÃŠre-Sud (Pr?Ãªvost);Quebec;45.866;-74.1785
+CA;J0V;Laurentides-Sud (Ch?Ãªn?Ãªville);Quebec;45.8265;-74.9318
 CA;J0W;Outaouais-Nord (Ferme-Neuve);Quebec;47.0921;-75.7967
-CA;J0Y;Abitibi-T?êmiscamingue-Est (Radisson);Quebec;52.1046;-75.2807
+CA;J0Y;Abitibi-T?Ãªmiscamingue-Est (Radisson);Quebec;52.1046;-75.2807
 CA;J1A;Coaticook;Quebec;45.1334;-71.7991
 CA;J1C;Bromptonville;Quebec;45.4797;-71.9492
 CA;J1E;Sherbrooke Northeast;Quebec;45.4231;-71.8723
@@ -1551,7 +1551,7 @@ CA;J1K;Sherbrooke West;Quebec;45.3822;-71.9327
 CA;J1L;Sherbrooke Northwest;Quebec;45.4113;-71.9586
 CA;J1M;Sherbrooke Southeast;Quebec;45.3656;-71.842
 CA;J1N;Rock Forest;Quebec;45.3395;-72.0128
-CA;J1R;Saint-?ëlie-d'Orford;Quebec;45.3966;-72.0422
+CA;J1R;Saint-?Ã«lie-d'Orford;Quebec;45.3966;-72.0422
 CA;J1Z;Saint-Cyrille-De-Wendover;Quebec;45.9334;-72.4324
 CA;J2B;Drummondville South;Quebec;45.9061;-72.5929
 CA;J2W;Saint-Luc;Quebec;45.3694;-73.3137
@@ -1574,12 +1574,12 @@ CA;J4V;Greenfield Park;Quebec;45.4865;-73.4622
 CA;J5J;Saint-Sophie;Quebec;45.8306;-73.9191
 CA;J5W;L'Assomption;Quebec;45.8232;-73.4294
 CA;J6E;Joliette;Quebec;46.0168;-73.4492
-CA;J6Z;Sainte-Th?êr?Êse-de-Blainville Northeast;Quebec;45.6694;-73.7752
-CA;J7A;Sainte-Th?êr?Êse-de-Blainville East;Quebec;45.6383;-73.7975
-CA;J7B;Sainte-Th?êr?Êse-de-Blainville North;Quebec;45.6602;-73.8157
-CA;J7C;Sainte-Th?êr?Êse-de-Blainville Northwest;Quebec;45.689;-73.8671
-CA;J7G;Sainte-Th?êr?Êse-de-Blainville South;Quebec;45.6095;-73.8378
-CA;J7H;Sainte-Th?êr?Êse-de-Blainville Southwest;Quebec;45.6209;-73.8728
+CA;J6Z;Sainte-Th?Ãªr?ÃŠse-de-Blainville Northeast;Quebec;45.6694;-73.7752
+CA;J7A;Sainte-Th?Ãªr?ÃŠse-de-Blainville East;Quebec;45.6383;-73.7975
+CA;J7B;Sainte-Th?Ãªr?ÃŠse-de-Blainville North;Quebec;45.6602;-73.8157
+CA;J7C;Sainte-Th?Ãªr?ÃŠse-de-Blainville Northwest;Quebec;45.689;-73.8671
+CA;J7G;Sainte-Th?Ãªr?ÃŠse-de-Blainville South;Quebec;45.6095;-73.8378
+CA;J7H;Sainte-Th?Ãªr?ÃŠse-de-Blainville Southwest;Quebec;45.6209;-73.8728
 CA;J7J;Mirabel Northeast;Quebec;45.7045;-73.9472
 CA;J7M;La Plaine;Quebec;45.7888;-73.7442
 CA;J7N;Mirabel Southwest;Quebec;45.6345;-74.1005
